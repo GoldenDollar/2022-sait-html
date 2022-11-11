@@ -1,0 +1,24 @@
+body {
+  		background-color: lightyellow;
+	}
+
+	h1{
+	background-color: red;
+	color: yellow
+	}
+
+th{
+background-color: lightblue;
+color: white;
+}
+
+img, video {
+ width: 200px;
+ height: auto;
+}
+
+iframe{
+wight: 250px;
+height: 250px;
+
+}
