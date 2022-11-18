@@ -1,24 +1,35 @@
 body {
-  		background-color: lightyellow;
-	}
+    background-color: lightgreen;
+}
 
-	h1{
-	background-color: red;
-	color: yellow
-	}
+h1 {
+    background-color: green;
+    color: #1ec9ac;
+}
 
-th{
-background-color: lightblue;
-color: white;
+h2 {
+    margin-left: 20px;
+}
+
+h3 {
+    margin-left: 40px;
+}
+
+th {
+    background-color: blue;
 }
 
 img, video {
- width: 200px;
- height: auto;
+    width: 200px;
+    height: auto;
 }
 
-iframe{
-wight: 250px;
-height: 250px;
+iframe {
+    width: 300px;
+    height: 300px;
+}
 
+.traktor {
+    width: 100px;
+    height: auto;
 }
