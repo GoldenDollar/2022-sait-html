@@ -41,3 +41,7 @@ h1 {
 nav{
 	background-color: blue;
 }
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
