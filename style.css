@@ -5,11 +5,19 @@ body {
 h1 {
   color:  brown;
   text-align:  center;
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
 }
 
 h2 {
   color:  brown;
   text-align:  center;
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
+}
+
+h3 {
+  color:  brown;
+  text-align:  center;
+  font-family: Brush Script MT, Lucida Handwriting, cursive;
 }
 
 p {
@@ -29,5 +37,9 @@ img {
   color: brown;
   text-align: center;
   font-size: 30px;
+}
+
+p {
+	font-family: Lucida Console, monospace;
 }
 
