@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Moving Square</title>
+		<link rel="stylesheet" href="Game.css">
+	</head>
+	<body>
+		<canvas id="Canvas"></canvas>
+		<script src="Game.js"></script>
+	</body>
+</html>
